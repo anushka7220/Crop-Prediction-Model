@@ -14,8 +14,7 @@ This repository contains a crop prediction model implemented as a Flask web appl
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-## Demo
-http://127.0.0.1:5000/predict
+
 
 ## Features
 - User-friendly web interface for inputting environmental parameters
