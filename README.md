@@ -14,7 +14,8 @@ This repository contains a crop prediction model implemented as a Flask web appl
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-
+##Demo
+https://youtu.be/9GoJCQbq_X4?si=8c5zwSGbgWrVZmNt
 
 ## Features
 - User-friendly web interface for inputting environmental parameters
